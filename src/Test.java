@@ -15,7 +15,7 @@ public class Test {
 			cmd = sc.next();
 			
 			if(cmd.equals("exit")) {
-				System.out.println("프로그램 종료");
+				System.out.println("프로그램 종료adsfasdfasdfasdfasdfasdfasdf");
 				break;
 			}
 			if(cmd.equals("help")) {
